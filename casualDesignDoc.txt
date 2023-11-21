@@ -16,11 +16,12 @@
 webアプリの名前
   タスク管理システム
 
-仕様技術
+技術仕様
   サーバ：Java
   フレームワーク：springboot
   クライアント：JS, HTML, CSS
   DB：postgres
+  IDE:eclipse
 
 
 ＜進め方＞
